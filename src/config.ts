@@ -1,0 +1,1 @@
+export const TOKEN_TG = process.env.BOT_TOKEN 
